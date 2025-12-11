@@ -6,9 +6,10 @@
     <title>Diego</title>
 </head>
 <body>
-    Esse site é feito em Laravel e está hospedado no servidor local
-    Hostname: FerruejLab
-    ip: ***********
-    você está acessando um projeto rodando em docker dentro do servidor local da rede Hacking da família abreu
+    Esse site é feito em Laravel e está hospedado no servidor local <br>
+    Hostname: FerruejLab <br>
+    ip: ***********<br>
+    você está acessando um projeto rodando em docker dentro do servidor <br>
+    local da rede Hacking da família abreu
 </body>
 </html>
